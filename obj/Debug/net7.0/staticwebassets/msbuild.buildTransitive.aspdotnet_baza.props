@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\aspdotnet_baza.props" />
+</Project>
